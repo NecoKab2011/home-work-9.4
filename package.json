@@ -2,6 +2,7 @@
   "name": "home-work-9.4",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://necokab2011.github.io/home-work-9.4/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
